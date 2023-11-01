@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="instagram">Instagram</string>
+    <string name="likes">likes</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="post">Post</string>
+    <string name="follow">Follow</string>
+    <string name="loading">Loading</string>
+    <string name="register_success">Success on Registering</string>
+    <string name="error">Error</string>
+    <string name="visualize_post">Visualize Post</string>
+    <string name="weak_password">Enter a stronger password</string>
+    <string name="invalid_email">Enter a valid email</string>
+    <string name="already_registered">This account was already registered</string>
+    <string name="on_registering_user">on registering user</string>
+    <string name="fill_in_name">Fill in your name</string>
+    <string name="fill_in_password">Fill in your password</string>
+    <string name="fill_in_email">Fill in your email</string>
+    <string name="following">Following</string>
+    <string name="search_users">Search users</string>
+    <string name="comments">Comments</string>
+    <string name="comment_saved">Comment saved Successfully</string>
+    <string name="insert_comment">Insert comment before saving</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="data_changed">Data changed Successfully</string>
+    <string name="image_upload_error">Error on image upload</string>
+    <string name="image_upload_success">Success on image upload</string>
+    <string name="picture_updated">Picture updated!</string>
+    <string name="filters">Filters</string>
+    <string name="loading_data">Loading data</string>
+    <string name="saving_post">Saving post</string>
+    <string name="image_saving_error">Error on saving image, try again</string>
+    <string name="success_saving_post">Success on saving post</string>
+    <string name="login_error">Login error</string>
+    <string name="open_gallery">OPEN GALLERY</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="publications">Publications</string>
+    <string name="followers">Followers</string>
+    <string name="change_picture">Change picture</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="save_changes">SAVE CHANGES</string>
+    <string name="description">Description</string>
+    <string name="publish">Publish</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+</resources>
